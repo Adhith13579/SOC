@@ -1,4 +1,4 @@
-\#SOC
+#SOC
 
 readme test test 
 
