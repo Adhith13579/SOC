@@ -38,9 +38,3 @@ A Seasons of Code (SoC) project building toward a multi-modal AI system for indu
 This repo is updated weekly as part of an ongoing SoC mentorship project. Earlier weeks focus on foundational skills (Python, ML, DL, LLMs); later weeks will build toward the actual multi-modal AI system for industrial quality assurance.
 
 
-```
-
----
-
-*More updates coming as the project progresses through EDA, model building, and final integration.*
-
