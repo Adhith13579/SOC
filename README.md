@@ -29,10 +29,22 @@ A Seasons of Code (SoC) project building toward a multi-modal AI system for indu
 
 ---
 
-##  Tech Stack 
-- **Language:** Python
-- **Libraries:** Pandas, (ML/DL libraries to be added as the project progresses)
-- **Environment:** Google Colab
+
+##  Tech Stack
+
+| Category                  | Technologies                              |
+| -------------------------- | ------------------------------------------ |
+| Programming Language       | Python                                     |
+| Environment                | Google Colab / Kaggle Notebooks           |
+| Data Processing            | Pandas, NumPy                             |
+| Visualization              | Matplotlib, Seaborn                       |
+| Classical ML               | Scikit-learn (Logistic Regression, Decision Trees, Bagging, etc.) |
+| Deep Learning              | TensorFlow / Keras (CNNs)                 |
+| Version Control            | Git & GitHub                              |
+| Future Modalities          | Image data + Sensor/Tabular data fusion   |
+
+---
+
 
 ##  Notes
 This repo is updated weekly as part of an ongoing SoC mentorship project. Earlier weeks focus on foundational skills (Python, ML, DL, LLMs); later weeks will build toward the actual multi-modal AI system for industrial quality assurance.
