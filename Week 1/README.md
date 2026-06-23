@@ -24,10 +24,10 @@
 - Glimpse of the three main types: **Supervised**, **Unsupervised**, and **Reinforcement** learning
 - Real-world examples (recommendation systems, spam filters, etc.)
 
-See [`ML basics`](./ML basics.md) for detailed notes.
+See ML basics file for detailed notes.
 
 ## Code
-All basic syntax practice is in [`Py Basics`](./Py Basics.py) — variables, data types, lists, dictionaries, loops, and functions, with comments explaining each part.
+All basic syntax practice is in Py Basics file — variables, data types, lists, dictionaries, loops, and functions, with comments explaining each part.
 
 ## Notes to Self
 - No formal assignment was given this week — focus was on building a solid foundation.
