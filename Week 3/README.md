@@ -1,15 +1,15 @@
-# Week 3: Deep Learning & CNN 🧠
+# Week 3: Deep Learning & CNN 
 
-## 🎯 Goals
+##  Goals
 - [x] Understand the basics of Deep Learning
 - [x] Learn how Convolutional Neural Networks (CNNs) work
 - [x] Get an intro to Large Language Models (LLMs)
 
-## 📚 Resources Used
+## Resources Used
 - **Intro to LLM** video — high-level overview of what LLMs are and how they work
 - **LLM Tutorial** video — deeper dive into LLM concepts (tokens, transformers, training)
 
-## 📝 What I Covered
+##  What I Covered
 
 ### Deep Learning Basics
 - What a neural network is: neurons, weights, biases, layers
@@ -40,7 +40,7 @@ Detailed notes: [`notes_intro_to_llm.md`](./notes_intro_to_llm.md)
 
 Code: [`cnn_concepts_demo.py`](./cnn_concepts_demo.py)
 
-## 📌 Notes to Self
-- CNNs make a lot more sense now that I understand *why* convolution + pooling is better than feeding raw pixels into a normal neural network (fewer parameters, captures spatial patterns).
+##  Notes to Self
+- CNNs make a lot more sense now that I understand why convolution + pooling is better than feeding raw pixels into a normal neural network (fewer parameters, captures spatial patterns).
 - LLMs are a different beast from CNNs — attention mechanisms instead of convolutions — but the core idea of "layers learning representations" still connects back to the neural network basics.
 - Next week: start implementing a real CNN using a framework (PyTorch/TensorFlow) on an actual image dataset.
