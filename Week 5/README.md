@@ -1,14 +1,14 @@
-# Week 5: EDA (Exploratory Data Analysis) 📊
+# Week 5: EDA (Exploratory Data Analysis) 
 
-## 🎯 Goals
+## Goals
 - [x] Learn the principles and process of Exploratory Data Analysis (EDA)
 - [x] Practice Data Cleaning techniques on a real-world-style dataset
 
-## 📚 Resources Used
+##  Resources Used
 - **EDA Cheat Sheet (Notion)** — covered the full EDA process in Python: understanding structure, distributions, correlations, and visualizations
 - **Data Cleaning Colab Notebook** — hands-on walkthrough of cleaning a messy dataset: handling missing values, duplicates, outliers, and type issues
 
-## 📝 What I Covered
+##  What I Covered
 
 ### Exploratory Data Analysis (EDA)
 EDA is the process of getting to *know* your dataset before building any model. Rushing into modelling without EDA is one of the most common beginner mistakes.
@@ -36,7 +36,7 @@ Real-world data is always messy. Based on the Colab tutorial:
 
 Code: [`eda_and_cleaning.py`](./eda_and_cleaning.py)
 
-## 📌 Notes to Self
+##  Notes to Self
 - EDA is not a one-size-fits-all checklist — the questions you ask depend heavily on the dataset and the problem you're solving.
 - Deciding *how* to handle missing values (drop vs. fill) is a judgment call that can significantly affect model performance later.
 - Outlier handling is context-dependent too — an outlier in a house price dataset might be a genuine mansion, not a data error.
